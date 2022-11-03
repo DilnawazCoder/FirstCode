@@ -1,0 +1,8 @@
+C:\Users\mddil\source\repos\student2\student2\bin\Debug\student2.exe.config
+C:\Users\mddil\source\repos\student2\student2\bin\Debug\student2.exe
+C:\Users\mddil\source\repos\student2\student2\bin\Debug\student2.pdb
+C:\Users\mddil\source\repos\student2\student2\obj\Debug\student2.csproj.AssemblyReference.cache
+C:\Users\mddil\source\repos\student2\student2\obj\Debug\student2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mddil\source\repos\student2\student2\obj\Debug\student2.csproj.CoreCompileInputs.cache
+C:\Users\mddil\source\repos\student2\student2\obj\Debug\student2.exe
+C:\Users\mddil\source\repos\student2\student2\obj\Debug\student2.pdb
